@@ -1,2 +1,3 @@
 # Buraq-compressed-assembler
-This is the readme file.
+This is a compressed instruction converter for RISCV only.  
+It is in developing mode may have many many bugs.
