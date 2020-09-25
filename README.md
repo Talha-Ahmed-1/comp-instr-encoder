@@ -1,4 +1,4 @@
-# Buraq-compressed-decoder
+# Buraq-compressed-instructions-encoder
 This is a compressed instruction converter for RISCV only. It is in developing mode may have many many bugs.  
 
 ## Contibutors  
