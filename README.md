@@ -1,5 +1,5 @@
 # Compressed-instructions-encoder
-This is a compressed instruction converter for RISCV only. It is under developing mode may have many many bugs.  
+This is a compressed instruction converter for RISC. Just for learning compressed instruction encoding/decoding, nothing else. :)
 
 ## Contibutors  
 Contributors in this project 
